@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="com.nextinnovation.gkquiz.activities.SplashActivity">
+
+    <LinearLayout
+        android:id="@+id/splash_content_wrapper"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:orientation="horizontal"
+        android:layout_marginTop="72dp"
+        android:gravity="center">
+
+        <ImageView
+            android:id="@+id/splash_logo"
+            android:layout_width="394dp"
+            android:layout_height="131dp"/>
+
+        <ImageView
+            android:id="@+id/splash_prodi_logo"
+            android:layout_width="131dp"
+            android:layout_height="131dp"
+            android:layout_marginRight="66dp"
+            android:layout_marginEnd="66dp"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@+id/splash_telkom_logo"
+            android:layout_width="131dp"
+            android:layout_height="131dp"
+            android:layout_marginLeft="66dp"
+            android:layout_marginStart="66dp"
+            android:visibility="gone"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/splash_loader"
+        android:layout_width="42dp"
+        android:layout_height="42dp"
+        android:layout_below="@+id/splash_content_wrapper"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"/>
+
+</RelativeLayout>

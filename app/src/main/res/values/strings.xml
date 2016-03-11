@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GK Quiz</string>
+    <string name="about_title">Credits</string>
+    <string name="about_copyright_notice">Copyright (C) 2016, Next Innovation</string>
+    <string name="about_author">Rivaldy Fauzan Mu\'taz\nDian Eka Muzdalifah\nDeden Nursyadid\nWelly Pamungkas</string>
+    <string name="about_lecturer">Dosen Pembimbing:\nCahyana S.T., M.Kom.</string>
+
+    <string name="error_other">Something went wrong, please contact the developer!</string>
+
+    <string name="select_difficulty_title">Select Difficulty</string>
+    <string name="select_difficulty_easy">EASY</string>
+    <string name="select_difficulty_normal">MEDIUM</string>
+    <string name="select_difficulty_hard">HARD</string>
+
+    <string name="question_correct">Your answer is correct</string>
+    <string name="question_wrong">Your answer is wrong</string>
+    <string name="question_back_dlg_title">Confirmation</string>
+    <string name="question_back_dlg_content">Are you sure want to back to main menu? Your unsaved progress will be restarted.</string>
+
+    <string name="dialog_button_no">NO</string>
+    <string name="dialog_button_yes">YES</string>
+
+    <string name="category_level_status">%1$s Level %2$s</string>
+    <string name="category_already_answered">You\'ve already answered this category of question, please try different category!</string>
+</resources>

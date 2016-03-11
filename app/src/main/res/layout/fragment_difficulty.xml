@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="392dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:layout_marginRight="14dp"
+        android:layout_marginEnd="14dp"
+        android:padding="20dp"
+        android:orientation="horizontal"
+        android:background="@color/highlight"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/difficulty_easy"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/select_difficulty_easy"
+                android:textColor="@color/selectDifficultyItemText"
+                android:textAllCaps="true"
+                android:textSize="18sp"
+                android:background="@drawable/selector_button_primary"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/difficulty_normal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="7dp"
+                android:layout_marginBottom="7dp"
+                android:text="@string/select_difficulty_normal"
+                android:textColor="@color/selectDifficultyItemText"
+                android:textAllCaps="true"
+                android:textSize="18sp"
+                android:background="@drawable/selector_button_primary"
+                android:gravity="center"/>
+
+            <TextView
+                android:id="@+id/difficulty_hard"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/select_difficulty_hard"
+                android:textColor="@color/selectDifficultyItemText"
+                android:textAllCaps="true"
+                android:textSize="18sp"
+                android:background="@drawable/selector_button_primary"
+                android:gravity="center"/>
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/difficulty_title"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.25"
+            android:layout_marginLeft="14dp"
+            android:textSize="22sp"
+            android:textColor="@color/selectDifficultyText"
+            android:text="@string/select_difficulty_title"
+            android:textAllCaps="true"
+            android:gravity="center"/>
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/difficulty_dismiss"
+        android:layout_width="32dp"
+        android:layout_height="32dp"
+        android:src="@drawable/selector_button_close"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"/>
+
+</RelativeLayout>

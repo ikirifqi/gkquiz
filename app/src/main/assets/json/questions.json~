@@ -1,0 +1,1011 @@
+{
+	"questions":
+	[
+		{
+			"question.category.id" : 1,
+			"difficulty" : 0,
+			"question" : "Hari kemerdekaaan indonesia di peringati pada tanggal?",
+			"options" : ["18 Agustus 1945", "16 Agustus 1945", "17 Agustus 1945", "14 Agustus 1945"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 0, 
+			"question" : "Bentuk negara Indonesia sesuai UUD 1945 adalah?",
+			"options" : ["Kerajaan", "Republik", "Serikat", "Monarki"],
+			"answer" : 1 
+		},
+        {
+		
+			"question.category.id" : 1, 
+			"difficulty" : 0, 
+			"question" : "Bapak Presiden RI yang pertama?",
+			"options" : ["Soekarno", "Soeharto ", "BJ Habibie", "Abdurrahman Wahid"],
+			"answer" : 0 
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 0, 
+			"question" : "Kepala daerah provinsi adalah ?",
+			"options" : ["Presiden", "Gubernur", "Bupati", "Wali kota"],
+			"answer" : 1 
+		},
+		{
+			"question.category.id" : 1,
+			"difficulty" : 0, 
+			"question" : "Menteri diangkat dan diberhentikan oleh ?",
+			"options" : ["MPR", "DPR", "KPU", "Presiden"],
+			"answer" : 3 
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 1,
+			"question" : "Menurut UUD 1945 yang diamandemen, kekuasaan negara yang tertinggi berada di tangan?",
+			"options" : ["Rakyat", "Presiden", "MPR", "DPR"],
+			"answer" : 0 
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 1,
+			"question" : "Kekuasaan tertinggi yang ada pada suatu negara negara tertentu disebut ?",
+			"options" : ["kekuasaan", "Kedaulatan", "demokrasi ", "kemerdekaan"],
+			"answer" : 2 
+		},
+		{
+			"question.category.id" : 1,
+			"difficulty" : 1,
+			"question" : "Yang termasuk lembaga legislatif di daerah adalah ?",
+			"options" : ["MPR ", "DPD ", "DPR", "DPRD"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 1, 
+			"question" : "Di bawah ini yang bukan merupakan lembaga pelindungan HAM adalah?",
+			"options" : ["POLRI", "LBH ", "Pengadilan", "KPK"],
+			"answer" : 3 
+		},
+		{
+			"question.category.id" : 1,
+			"difficulty" : 1, 
+			"question" : "Hak asasi manusia di Indonesia dijamin dengan dikeluarkannya UU tentang Hak Asasi Manusia yakni UU nomor ?",
+			"options" : ["9 Tahun 1998", "39 Tahun 1998 ","39 Tahun 1999", " 9 Tahun 1999"],
+			"answer" : 2 
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 2,
+			"question" : "Contoh negara yang menganut sistem pemerintahan parlementer adalah?",
+			"options" : ["Filipina", "Indonesia", "Amerika Serikat", "Inggris"],
+			"answer" : 2 
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 2, 
+			"question" : "Negara yang menggunakan sistem pemerintahan presidensil adalah ?",
+			"options" : ["Inggris", "Jepang", " Malaysia", "Amerika serikat"],
+			"answer" : 3 
+		},
+		{
+			"question.category.id" : 1,
+			"difficulty" : 2, 
+			"question" : "Piagam Jakarta disusun oleh wakil golongan kebangsaan dan islam yang tergabung dalam?",
+			"options" : ["Panitia Dasar Negara", "Panitia Delapan", "Panitia Sembilan", "Panitia Sebelas"],
+			"answer" : 2 
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 2, 
+			"question" : "Tiga fungsi pokok Pancasila adalah?",
+			"options" : ["Pandangan hidup, tujuan hidup, nilai hidup", "Pandangan hidup, ideologi, dasar negara", "Lambang negara, jiwa bangsa, ideologi", "Dasar negara, lambang negara, pertahanan negara"],
+			"answer" : 1 
+		},
+		{
+			"question.category.id" : 1, 
+			"difficulty" : 2,
+			"question" : "Secara yuridis konstitusional dasar negara Pancasila lahir pada tanggal?",
+			"options" : ["1 Juni 1945", "22 Juni 1945", "29 Mei 1945", "18 Agustus 1945"],
+			"answer" : 3 
+		},
+		{
+			"question.category.id" : 2,
+			"difficulty" : 0,
+			"question" : "Penggabungan warna kuning dan biru adalah warna?",
+			"options" : ["Ungu", "Cokelat", "Hijau", "Putih"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 0, 
+			"question" : "Penggabungan warna merah dan biru adalah warna?",
+			"options" : ["Abu-abu", "Cokelat", "Hijau", "Ungu"],
+			"answer" : 3 
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 0, 
+			"question" : "Seni rupa yang memanfaatkan teknik cetak dalam proses pembuatnnya adalah seni ?",
+			"options" : ["Lukis", "Patung", "Grafis", "Instalasi"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 0, 
+			"question" : "Yang termasuk karya seni rupa murni adalah?",
+			"options" : ["cangkir", "Rumah", " Kursi", "Patung"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 0, 
+			"question" : "Seni rupa yang memiliki panjang dan lebar disebut?",
+			"options" : ["Seni rupa 2 dimensi", "Seni rupa murni", "Seni rupa terapan", "Seni murni"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 1, 
+			"question" : "Percakapan dua orang atau lebih  adalah?",
+			"options" : ["Monolog", "Epilog", "Dialog", "Prolog"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 1, 
+			"question" : "Rangkuman isi cerita yang mewakilli isi sebuah film adalah?",
+			"options" : ["Sinopsis", "Sintesis", "Epilog", "Prolog"],
+			"answer" : 0 
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 1, 
+			"question" : "Berasal dari daerah manakah alat musik angklung?",
+			"options" : ["Jawa Timur", "Jawa Barat", "Jawa Tengah", "Bali"],
+			"answer" : 1 
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 1, 
+			"question" : "Menata ruang pameran adalah tugas seksi ?",
+			"options" : ["Seksi Humas", "Seksi Penerima Tamu", "Seksi Dekorasi", "Seksi Dokumentasi"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 1, 
+			"question" : "Warna berikut yang merupakan warna primer adalah?",
+			"options" : ["Merah,Biru,Hijau", "Putih,Hitam,Ungu", "Merah,Biru,Kuning", "Hitam,Putih,Merah"],
+			"answer" : 2 
+		},
+		{
+			"question.category.id" : 2,
+			"difficulty" : 2, 
+			"question" : "Tari yang hidup, tumbuh dan berkembang di kalangan rakyat disebut tari?",
+			"options" : ["Rakyat", "Sosial", "Etnis ", "Hiburan"],
+			"answer" : 0 
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 2,
+			"question" : "Gerak yang mengandung arti atau maksud tertentu dan sudah mengalami pengayaaan  adalah?",
+			"options" : ["Gerak bentuk", "Gerak simpel", "Gerak maknawi", "Gerak murni"],
+			"answer" : 2 
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 2, 
+			"question" : "Tari mempunyai dua sifat mendasar yaitu?",
+			"options" : ["Kelomppok dan individual", "Sosial dan kelompok ", "Kelompok dan mandiri", "Individual dan sosial"],
+			"answer" : 3 
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 2, 
+			"question" : "Menurut Soedarsono, fungsi tari dapat sebagai?",
+			"options" : ["Upacara", "Adat istiadat", "Pemujaan ", "Turun temurun"],
+			"answer" : 0 
+		},
+		{
+			"question.category.id" : 2, 
+			"difficulty" : 2,
+			"question" : "Contoh tari yang melukiskan secara simbolis?",
+			"options" : ["Tari tani", "Tari nelayan", "Tari bedaya", "Tari burung"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 3,
+			"difficulty" : 0,
+			"question" : "Kerajaan Hindu pertama dan tertua di Indonesia adalah ?",
+			"options" : ["Kerajaan Mataram", "Kerajaan Singosari", "Kerajaan Tarumanegara", "Kerajaan Kutai"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 3, 
+			"difficulty" : 0, 
+			"question" : "Raja yang paling terkenal pada masa Kerajaan Tarumanegara ialah ?",
+			"options" : ["Ken Arok", "Kameswara ", "Purnawarman", "Mulawarman"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 3, 
+			"difficulty" : 0, 
+			"question" : "Ramalan dari Jayabaya terkenal adalah ramalan?",
+			"options" : ["Ajian Jayabaya ", "Jangka Jayabaya", "Jangka Jayasabha", "Kusuma Jayabaya"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 3,
+			"difficulty" : 0, 
+			"question" : "Kerajaan yang pertama kali didirikan oleh Ken Arok ialah ?",
+			"options" : ["Kerajaan Majapahit", "Kerajaan Tarumanegara", "Kerajaan Singosari", "Kerajaan Kediri"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 3, 
+			"difficulty" : 0,
+			"question" : "Dari kerajaan manakah yang menyerang Kerajaan Singosari dan mengakibatkan Kertanegara gugur ?",
+			"options" : ["Kerajaan Tarumanegara", "Kerajaan Kutai", "Kerajaan Mataram ", "Kerajaan Kediri"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 3, 
+			"difficulty" : 1, 
+			"question" : "Singhosari mencapai puncak kejayaannya ketika diperintah oleh ?",
+			"options" : ["Anusapati ", "KenArok ", "Ranggawuni", "Kertanegara"],
+			"answer" : 3 
+		},
+		{
+			"question.category.id" : 3, 
+			"difficulty" : 1, 
+			"question" : "Sisa-sisa makhluk hidup, baik hewan, tumbuhan, dan manusia yang telah membatu disebut?",
+			"options" : ["Fosil ", "Artefak", "Prasasti", "Menhir"],
+			"answer" : 0 
+		},
+		{
+			"question.category.id" : 3,
+			"difficulty" : 1, 
+			"question" : "Pithecanthropus Erectus berarti ?",
+			"options" : ["Kera besar", "Kera yang berdiri tegak ", "Orang hutan", "Manusia purba"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 3,
+			"difficulty" : 1,
+			"question" : "Corak kehidupan manusia purba pada masa berburu dan meramu adalah?",
+			"options" : ["Hidup di goa-goa ", "Berpindah-pindah ", "Menetap", "Berkelompok"],
+			"answer" : 1 
+		},
+		{
+			"question.category.id" : 3,
+			"difficulty" : 1, 
+			"question" : "Hasil kebudayaan zaman Megalitikum yang berarti tempat untuk menyimpan sesaji adalah?",
+			"options" : ["Menhir ", "Sarkopagus", "Punden berundak-undak", "Dalman 'dolmen'"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 3, 
+			"difficulty" : 2,
+			"question" : "Salah satu penting kebudayaan Batu Tua (Paleoliticum) di Indonesia adalah ?",
+			"options" : ["Manusia hidup berburu dan meramu ", "Manusia hidup dengan cara berladang dan berpindah-pindah", "Manuasia hidup di pesisir dengan cara mengumpulkan kerang", "Manusia memproduksi makanan dengan bercocok tanam"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 3, 
+			"difficulty" : 2,
+			"question" : "Berikut ini yang bukan termasuk contoh praktik pewarisan masyarakat yang belum mengenal tulisan yang berlangsung pada masa sekarang adalah?",
+			"options" : ["Tradisi bercocok tanam disawah ", "Tradisi membuat sesajen", "Tradisi bercocok tanam di ladang", "Tradisi mudik lebaran"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 3,
+			"difficulty" : 2,
+			"question" : "Tradisi masyarakat Indonesia yang sudah mengenal tulisan diketahui dari penemuan?",
+			"options" : ["Fosil  ", "Artefak", "Folklore", " Prasasti"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 3,
+			"difficulty" : 2, 
+			"question" : "Langkah pertama yang dilakukan keluarga dalam mewariskan masa lalunya adalah ?",
+			"options" : ["Mewariskan harta bendanya", "Menuntut agar tertib", "Mengajarkan sopan santun", "Mendorong agar masa lampaunya dapat dikembangkan"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 3, 
+			"difficulty" : 2, 
+			"question" : "Salah satu bentuk merekam kehidupan masa lalu pada masyarakat yang belum mengenal tulisan, yaitu melalui?",
+			"options" : ["Tradisi lisan ", "Sejarah lisan", "Dongeng", "Prasasti"],
+			"answer" : 1
+		},		
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 0, 
+			"question" : "Perangkat lunak dalam sistem komputer dinamakan....",
+			"options" : ["Software", "Hardware", "Brainware", "Storage Device"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 0, 
+			"question" : "Perangkat keras dalam sebuah komputer dianamakan....",
+			"options" : ["Software", "Hardware", "Brainware", "Storage Device"],
+			"answer" : 1
+		},
+
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 0, 
+			"question" : "Dalam masyarakat sekarang, ada banyak bentuk teknologi yang berfungsi mirip seperti komputer. Manakah yang BUKAN contoh jenis lain dari sistem komputer?",
+			"options" : ["XBOX", "IPOD", "Smartphone", "Radio"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 0, 
+			"question" : "Manakah yang merupakan perangkat input?",
+			"options" : ["Speaker", "Mouse", "Printer", "Monitor"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 0, 
+			"question" : "Manakah yang merupakan perangkat output?",
+			"options" : ["Keyboard", "Scanner", "Mouse", "Printer"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 1, 
+			"question" : "Komputer Pertama yang dibuat pada tahun 1946, dinamakan....",
+			"options" : ["Retro-boot", "atomic calculator", "web-bot", "ENIAC"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 1, 
+			"question" : "Yang manakah perangkat yang dikenal sebagai 'otak' dari sebuah komputer?",
+			"options" : ["CPU", "RAM", "Motherboard", "Monitor"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 1, 
+			"question" : "Siapakah Nama Pendiri Perusahaan Raksasa IBM?",
+			"options" : ["Charles Ranlett Flint", "Bill Gates", "Steve Jobs", "Larry Page"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 1, 
+			"question" : "Siapakah Nama Pendiri Perusahaan Apple?",
+			"options" : ["Charles Ranlett Flint", "Bill Gates", "Steve Jobs", "Larry Page"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 1, 
+			"question" : "CPU merupakan kependekan dari?",
+			"options" : ["Center Processing Unit", "Central Processing Unit", "Center Processing User", "Central Processing User"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 2, 
+			"question" : "Teknologi Nirkabel (tanpa kabel) yang dapat digunakan untuk transfer data pada Telepon Seluler ataupun pada Komputer adalah....",
+			"options" : ["UTP", "Bluetooth", "Wired Transfer", "Card Reader"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 2, 
+			"question" : "Salah satu teknologi telekomunikasi khususnya dalam bidang modem, dikenal istilah DSL yang memiliki kepanjangan dari....",
+			"options" : ["Diesel", "Data Short Link", "Digital Subscriber Line", "Data Shortest Link"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 2, 
+			"question" : "Dalam suatu jaringan, istilah komputer yang memberikan layanan kepada Client disebut....",
+			"options" : ["Guest", "Master", "Butler", "Server"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 2, 
+			"question" : "Teknologi internet pertama kali muncul pada tahun....",
+			"options" : ["1960", "1969", "1970", "1979"],
+			"answer" : 1
+		},		
+		{
+			"question.category.id" : 4, 
+			"difficulty" : 2, 
+			"question" : "Li-Fi merupakan Teknologi Wireless Terbaru Berbasiskan Cahaya. Li-Fi adalah singkatan dari....",
+			"options" : ["Light Fiberfills", "Light Fiberoptic", "Light Fitality", "Light Fidelity"],
+			"answer" : 3
+		},	
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 0,
+			"question" : "Tonnis menggunakan sejenis raket untuk memainkannya. Alat itu dinamakan ?",
+			"options" : ["Saddle", "Paddle", "Tsu chu", "bet"],
+			"answer" : 1
+
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 0,
+			"question" : "Berapa lama permainan sepak bola dimainkan setiap babaknya ?",
+			"options" : ["30 menit", "45 menit", "50 menit", "20 menit"],
+			"answer" : 1
+
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 0,
+			"question" : "Jumlah pemain setiap regu dalam permainan sepak bola adalah…",
+			"options" : ["9 orang", "10 orang", "11 orang", "12 orang"],
+			"answer" : 2
+
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 0,
+			"question" : "Push up berguna untuk menguatkan otot…",
+			"options" : ["Tungkai", "Perut", "Punggung", "Lengan"],
+			"answer" : 3
+
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 0,
+			"question" : "Latihan lompat tali membantu untuk memperkuat otot…",
+			"options" : ["Tungkai", "Tangan", "Kaki", "Lengan"],
+			"answer" : 2
+
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 1,
+			"question" : "Induk organisasi sepak bola nasional indonesia adalah...",
+			"options" : ["PSSI", "PSIS", "PBSI", "PRSI"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 1,
+			"question" : "Induk organisasi internasional sepak bola adalah...",
+			"options" : ["FIVA", "VIVA", "FIFA", "AFTA"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 1,
+			"question" : "Dalam sepak bola, jika pemain memegang bola diluar kotak penalti maka hukumanaya adalah....",
+			"options" : ["Tendangan penalti", "Tendangan bebas", "Tendangan sudut", "Tendangan gawang"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 1,
+			"question" : "Tendangan bebas dalam permainan sepak bola disebut...",
+			"options" : ["Corner kick", "Outside", "Throw in", "Free kick"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 1,
+			"question" : "Berapa jarak titik penalti ke gawang pada permainan sepak bola...",
+			"options" : ["9 meter", "10 meter", "11 meter", "12 meter"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 2,
+			"question" : "Kemampuan seseorang untuk dapat mengubah arah dengan cepat dan tepat disebut...",
+			"options" : ["Kecepatan", "Kekuatan", "Kelincahan", "Ketepatan"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 2,
+			"question" : "Berikut ini merupakan komponen kebugaran jasmani, kecuali...",
+			"options" : ["Kecepatan", "Kekuatan", "Kelincahan", "Ketepatan"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 2,
+			"question" : "Hasil dari kekuatan dan kecepatan adalah...",
+			"options" : ["Kelincahan", "Kekuatan", "daya ledak", "Ketepatan"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 2,
+			"question" : "Sistem utama penyerangan W-M dalam sepak bola, poros ke dalam sebagai...",
+			"options" : ["Pelapisan dengan gelandang", "penyerang", "Kanan luar", "Kiri luar"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 5,  
+			"difficulty" : 2,
+			"question" : "pada permainan bola volley teknik bertahan yang bertujuan mematahkan serangan lawan disebut...",
+			"options" : ["Umpan", "Blocking", "Servis", "Passing"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 0,
+			"question" : "Bendera negara manakah yang mempunyai warna merah-putih? ?",
+			"options" : ["Polandia", "Indonesia", "Arab Saudi", "Inggris"],
+			"answer" : 1
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 0,
+			"question" : "Negara manakah yang memmmpunyai julukan 'Paman Sam' ?",
+			"options" : ["Amerika Serikat", "Argetina", "Brazil", "Australia"],
+			"answer" : 1
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 1,
+			"question" : "Di mana letak Taman Nasional Kutai ? ",
+			"options" : ["Kalimantan Timur", "Kalimantan Barat", "Kalimantan Utara", "Sulawesi Utara"],
+			"answer" : 0
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 1,
+			"question" : "Pelabuhan laut manakah yang tertua di Indonesia ? ",
+			"options" : ["Sorong", "Harbour bay", "Sunda Kelapa", "Tanjung perak"],
+			"answer" : 2
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 1,
+			"question" : "Termasuk benua manakah Negara Inggris ? ",
+			"options" : ["Amerika", "Afrika", "Australia", "Eropa"],
+			"answer" : 3
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 1,
+			"question" : "Negara apa yang memiliki bendera putih-merah ?",
+			"options" : ["Indonesia", "Singapura", "Polandia", "Monako"],
+			"answer" : 2
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 1,
+			"question" : "Negara manakah yang memmmpunyai julukan 'Paman Sam' ?",
+			"options" : ["Amerika Serikat", "Argetina", "Brazil", "Australia"],
+			"answer" : 0
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 2,
+			"question" : "Di manakah letak pegunungan Rocky ? ",
+			"options" : ["China", "Amerika", "Rusia", "Itali"],
+			"answer" : 1
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 2,
+			"question" : "Kota manakah di Amerika Serikat yang memiliki populasi terbesar ? ",
+			"options" : ["Alabama", "Arizona", "California", "Newyork"],
+			"answer" : 3
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 2,
+			"question" : "Dikota manakah koloseum berada ? ",
+			"options" : ["Napoli", "Milan", "Roma", "Palermo"],
+			"answer" : 2
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 2,
+			"question" : "Kota manakah dijepang yang dulunya di sebut edo ? ",
+			"options" : ["Tokyo", "Osaka", "Kyoto", "Yokohama"],
+			"answer" : 0
+
+		},
+		{
+			"question.category.id" : 6,  
+			"difficulty" : 2,
+			"question" : "konstruksi bangunan yang sudah digunakan sejak lama oleh bangsa Mesir kuno maupun bangsa Maya, digunakan sebagai makam raja-raja masa dahulu serta sarana ibadah (pemujaan), disebut dengan ? ",
+			"options" : ["Kuil Ramses", "Piramida", "Lembah Raja", "Kuil Karnak"],
+			"answer" : 1
+
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 2,
+			"question" : "Disebut apakah hewan yang merupakan keturunan lama dan unta ?",
+			"options" : ["Leopon", "Liger", "Dzo", "Cama"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 2,
+			"question" : "Disebut apakah hewan yang merupakan keturunan macan tutul dan singa ?",
+			"options" : ["Leopon", "Liger", "Dzo", "Cama"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 2,
+			"question" : "Manakah spesies burung dengan bobot terberat di dunia yang masih ada ? ",
+			"options" : ["Kasuari selatan", "Kasuari utara", "Emu", "Burung unta"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 2,
+			"question" : "Nama marga tumbuhan dari suku talas-talasan adalah...",
+			"options" : ["Faboideae", "Araceae", " Malvaceae", "Marantaceae"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 1,
+			"question" : "Hewan apakah yang disebut sebagai kadal terbesar di dunia ?",
+			"options" : ["Tokek", "Komodo", "Cicak", "Biawak"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 1,
+			"question" : "Faktor yang menimbulkan keanekaragaman hayati adalah",
+			"options" : ["Gen dan lingkungan", "Adaptasi", "Makanan ", "Internal"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 1,
+			"question" : "Hutan bakau di Kalimantan, hutan hujan tropis di Jawa Barat, dan Savanna di Papua, merupakan contoh keanekaragaman hayati tingkat...",
+			"options" : ["Genetik", "Spesies", "Ekosistem", "Populasi"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 1,
+			"question" : "Manakah dibawah ini yang merupakan nama ilmiah dari bunga bangkai ?",
+			"options" : ["Mucuna bennettii ", "Capsicum anuum", "Euginia aromatica", "Amophophalus sp"],
+			"answer" : 3
+		},		
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 1,
+			"question" : "Manakah dibawah ini yang merupakan nama ilmiah dari cengkih ?",
+			"options" : ["Mucuna bennettii ", "Capsicum anuum", "Euginia aromatica", "Amophophalus sp"],
+			"answer" : 2
+		},	
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 0,
+			"question" : "berikut adalah ciri ciri hewan bertelur , kecuali...",
+			"options" : ["Tidak memiliki daun telinga", "Tidak mempunyai kelenjar susu", "Tidak menyusui anaknya", "Berdarah panas"],
+			"answer" : 3
+		},	
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 0,
+			"question" : "Hewan apakah yang melahirkan...",
+			"options" : ["Elang", "Ayam", "Sapi", "Ular"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 0,
+			"question" : "Hewan apakah yang bertelur...",
+			"options" : ["kuda", "kerbau", "Sapi", "Elang"],
+			"answer" : 3
+		},	
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 0,
+			"question" : "Tumbuhan yang hidup di air adalah...",
+			"options" : ["Teratai", "Kaktus", "Mawar", "Melati"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 7,  
+			"difficulty" : 0,
+			"question" : "Disebut apakah hewan yang melahirkan ?",
+			"options" : ["Ovipar", "Vivipar", "Opovivipar", "Unggas"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 0,
+			"question" : "Mempunyai 4 kaki, berbulu, dan makanannya adalah ikan. Hewan apakah itu ...",
+			"options" : ["Nyamuk", "Kucing", "Kelinci", "Lalat"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 0,
+			"question" : "Gambar binatang pada pancasila melambangkan ...",
+			"options" : ["Keadilan sosial bagi seluruh rakyat Indonesia", "Kerakyatan yang dipimpin oleh hikmat dan kebijaksanaan dalam permusyawaratan/perwakilan", "Persatuan Indonesia", "Kemanusiaan yang adil dan beradab"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 0,
+			"question" : "Table in Indonesia is ...",
+			"options" : ["Meja", "Kursi", "Sepatu", "Baju"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 0,
+			"question" : "Using “an” ... for the following word!",
+			"options" : ["Window", "Table", "Apple", "Bag"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 0,
+			"question" : "Wednesday, ..., Friday!",
+			"options" : ["Sunday", "Monday", "Tuesday", "Thursday"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 1,
+			"question" : "Pengelola Taman Mini Indonesia Indah (TMII) memperkirakan sebanyak 400 ribu pengunjung hadir menjelang Tahun Baru 2009. Perkiraan ini dirasa tidak berlebihan mengingat membludaknya pengunjung pada tahun lalu. Sebagai daya tarik pengunjung, pengelola   menyiapkan berbagai acara hiburan dengan tema 'Pesta Rakyat', di antaranya pesta kembang api. Gagasan utama paragraf tersebut adalah ...",
+			"options" : ["Pesta kembang api di TMII", "Membludaknya pengunjung TMII", "Perkiraan jumlah pengunjung TMII", "Daya tarik pengelola TMII"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 1,
+			"question" : "(1) Udara di Bogor terasa dingin.  (2) Kali ini dinginnya melebihi hari-hari sebelumnya. (3) Dinginnya suhu udara di Bogor mencapai 24ºC. (4) Data tingkat suhu udara ini, terdapat  di papan informasi pengukur suhu di jalan-jalan besar di kota Bogor. Dua kalimat pendapat pada teks tersebut ditandai dengan nomor ....",
+			"options" : ["1 dan 2", "1 dan 3", "2 dan 3", "3 dan 4"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 1,
+			"question" : "Zaman prasejarah orang belum mengenal alat canggih yang bekerja secara digital. Karena secara mayoritas alat-alat tradisional tersebut memang berkembang secara statis. Oleh sebab itu perlu perhatian secara ekstra agar alat-alat tersebut bisa digunakan secara maksimal. Secara berurutan antonim kata prasejarah, digital, mayoritas, tradisional, statis, ekstra, maksimal....",
+			"options" : ["Sejarah, manual, minoritas, modern, melankolis, intra, minimal", "Sejarah, optimal, minoritas, modern, dinamis, intra, minimal", "Sejarah, manual, minoritas, modern, dinamis, intra, minimal", "Sejarah, manual, minoritas, kuno, dinamis, intra, minimal"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 1,
+			"question" : "Mr. Yono : Why does your brothers study at the vocational school? Yulia : He … to get a job after finishing his school.",
+			"options" : ["Dislikes", "Hates", "Enjoy", "Wants"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 1,
+			"question" : "Andin : Indonesia has to import rice next year. Mike  : How come? Indonesia is an agricultural country. Andin : There are some reasons for that. Mike  : Like what? Andin : The harvest failed … natural disasters occurred.",
+			"options" : ["Although", "Because", "But", "And"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 2,
+			"question" : "Bacalah wacana berikut! Bendungan di Desa Jatirogo ini tidak ada duanya di Indonesia. Tubuh bendungan tersebut dari bantalan karet berisi air. Karena terbuat dari karet, tinggi permukaannya bisa diatur secara fleksibel. Bila terjadi banjir, bantalan karet itu dikempiskan. Dan air bah lancar mengalir ke laut. Sebaliknya, bila volume air sungai mengecil, tubuh bendungan diisi penuh, sehingga tingginya mencapai 3 m. Sungai terbendung dan airnya dimanfaatkan sebagai air minum dan irigasi. Pada saat yang sama, air pasang dari laut akan terhambat dan tak mencemari sungai yang menjadi sumber utama air tawar masyarakat di sekitar sungai. Simpulan isi wacana diatas adalah ...",
+			"options" : ["Bendungan dari bantalan karet dapat membendung sungai.", "Bendungan dari bantalan karet sangat bermanfaat.", "Bendungan dari bantalan karet dapat mengalirkan air.", "Pemanfaatan air melalui bendungan bantalan karet."],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 2,
+			"question" : "Many companies will have to trim the number of employee. What is the meaning of the word 'trim'... ",
+			"options" : ["Fire", "Cut", "Reduce", "Border"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 2,
+			"question" : "3.	ANNOUNCEMENT! Welcome to the Jogjakarta Public Library. Books can only be borrowed by members. Anyone who resides, works, pays property taxes, or attends school in Jogjakarta, is eligible to be Library member. To be a member you just simply register yourself in the front desk. You will be asked to fill a form, show your ID card, and pay registration fee. Most books can be borrowed for 28 days. Borrowing can be  prolonged  once for 10 days if no one else wants the book. What does the text tell us?",
+			"options" : ["How to register to be a librarian. ", "How to be the library member.", "How to renew the library.", "How to buy the book."],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 2,
+			"question" : "“Oyasuminasai” adalah salam yang di gunakan pada…",
+			"options" : ["Siang hari", "Malam hari", "Pagi hari", "Sore hari"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 8,  
+			"difficulty" : 2,
+			"question" : "Kata sapaan yang paling tepat di ucapkan ketika menanyakan kabar adalah ...",
+			"options" : ["Ogenki Desuka", "Sayounara", "Oyasuminasai", "Ohayou Gozaimasu"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 0,
+			"question" : "Anging Mammiri merupakan lagu daerah ...",
+			"options" : ["Sulawesi Selatan", "Sulawesi Barat", "Jawa Barat", "Jawa Tengah"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 0,
+			"question" : "Pencipta lagu Indonesia Raya adalah ...",
+			"options" : ["Wage Rudolf Soepratman", "C. Simanjuntak", "Justin Bieber", "Ibu Sud"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 0,
+			"question" : "Gundul-gundul Pacul adalah lagu dari daerah...",
+			"options" : ["Jawa Barat", "Jawa Tengah", "Jawa Timur", "DKI Jakarta"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 0,
+			"question" : "Lagu “Balonku” termasuk jenis lagu ...",
+			"options" : ["Jazz", "POP", "Rock", "Anak"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 0,
+			"question" : "Desaku yang ..., pujaan hatiku. ",
+			"options" : ["Kupuji", "Kulupakan", "Kucinta", "Kurindukan"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 1,
+			"question" : "Musik yang lahir, tumbuh, dan berkembang di lingkungan masyarakat umum dinamakan musik...",
+			"options" : ["POP", "Klasik", "Rakyat", "Instrumental"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 1,
+			"question" : "Pentatonis artinya...",
+			"options" : ["2 nada", "3 nada", "4 nada", "5 nada"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 1,
+			"question" : "Lagu daerah Sumatera Barat yang menceritakan kerinduan seorang perantau akan kampung halaman adalah ...",
+			"options" : ["Kampuang Nan Jauh di Mato", "Ampar-ampar Pisang", "Ayam Den Lapeh", "O Ina Ni Keke"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 1,
+			"question" : "Musik seni (art music) yang diciptakan untuk konser, acara keagamaan serta opera dan balet disebut ...",
+			"options" : ["Musik Blues", "Musik Klasik", "Musik Jazz", "Musik POP"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 9,  
+			"difficulty" : 1,
+			"question" : "3  4    5   3`   3`  2`   2` 1` 5    5   5    6     5 ... ; In do  ne sia   ta nah a .ir ku  ta nah tum pah da rah ku. Lengkapilah not diatas untuk kata “darahku”",
+			"options" : ["4  3 2", "2  3 4", "3  4 2", "3  2 4"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 0,
+			"question" : "Kalau kita sakit, sebaiknya kita pergi ke ...",
+			"options" : ["Rumah Makan", "Rumah Sakit", "Kantor Polisi", "Sekolah"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 0,
+			"question" : "Sebelum pergi ke Sekolah sebaiknya kita harus ...",
+			"options" : ["Sarapan", "Tidur", "Main", "Nonton"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 0,
+			"question" : "Akibat yang ditimbulkan karena kurang istirahat adalah ...",
+			"options" : ["Mudah Sakit", "Tetap Bugar", "Tetap Sehat", "Badan Jadi Gemuk"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 0,
+			"question" : "Kuku jari tangan maupun jari kaki harus selalu dipelihara kebersihannya. Ciri-ciri kuku yang sehat adalah seperti dibawah ini, kecuali ...",
+			"options" : ["Kuku tumbuh dengan baik", "Kuat", "Bersih", "Permukaan agak kasar sebagai pertanda kuku yang sehat"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 0,
+			"question" : "Akibat tidak mencuci tangan sebelum makan adalah ...",
+			"options" : ["Sakit Perut", "Sakit Kaki", "Sakit Kepala", "Sakit Tangan"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 1,
+			"question" : "Dalam istilah medis, penyakit menular disebut ...",
+			"options" : ["Wabah", "Infeksi", "Kulit", "Keturunan"],
+			"answer" : 0
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 1,
+			"question" : "Salah satu usaha untuk menghindari penularan penyakit adalah dengan memiliki ...",
+			"options" : ["Uang", "Badan yang tegap", "Daya tahan tubuh yang tinggi", "Banyak pengalaman"],
+			"answer" : 2
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 1,
+			"question" : "Scabies adalah nama lain dari ...",
+			"options" : ["Panu", "Kudis", "Kurap", "Patek"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 1,
+			"question" : "Makanan yang mengandung Karbohidrat, kecuali ...",
+			"options" : ["Kentang", "Daging", "Sagu", "Gandum"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 1,
+			"question" : "Pada tubuh bayi, jumlah cairan mencapai kurang lebih ...",
+			"options" : ["50% dari berat badan", "55% dari berat badan", "60% dari berat badan", "70% dari berat badan"],
+			"answer" : 3
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 2,
+			"question" : "AIDS merupakan gejala penyakit yang disebabkan oleh ...",
+			"options" : ["Virus", "Hubungan Seksual", "Bakteri", "Suntikan Bersama"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 10,  
+			"difficulty" : 2, 
+			"question" : "Kolera adalah penyakit menular yang menyerang bagian ...",
+			"options" : ["Tenggorokan", "Usus", "Paru-Paru", "Mulut"],
+			"answer" : 1 
+		},
+		{
+			"question.category.id" : 10, 
+			"difficulty" : 2, 
+			"question" : "Penyakit cacar disebabkan oleh ...",
+			"options" : ["Virus variola", "Amoeba vescialis", "Baksil pathogen", "Baksil fibrinogen"],
+			"answer" : 0 
+		},
+		{
+			"question.category.id" : 10, 
+			"difficulty" : 2, 
+			"question" : "Yang termasuk dalm jenis kelompok kokain adalah ...",
+			"options" : ["Anabulik", "Erythroxylon coca", "Mriyuana", "Cafein"],
+			"answer" : 1
+		},
+		{
+			"question.category.id" : 10,
+			"difficulty" : 2,
+			"question" : "Penyakit malaria disebabkan oleh ...",
+			"options" : ["Gigitan nyamuk Anopheles", "Bakteri", "Aedes aegypti", "Anopheles aegypti"],
+			"answer" : 0
+		},
+	]
+}

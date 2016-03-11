@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main screen -->
+    <color name="mainPrimary">#000000</color>
+    <color name="mainPrimaryDark">#000000</color>
+    <color name="mainAccent">#e60000</color>
+    <color name="mainBackground">#ffffff</color>
+    <color name="highlight">#33000000</color>
+
+    <!-- About screen -->
+    <color name="aboutTitleText">#510078</color>
+    <color name="aboutCopyrightNoticeText">#e60000</color>
+    <color name="aboutAuthorText">#000000</color>
+
+    <!-- Splash screen -->
+    <color name="splashBackground">#ffffff</color>
+    <color name="splashStatusBar">#000000</color>
+
+    <!-- Select difficulty screen -->
+    <color name="selectDifficultyText">#000000</color>
+    <color name="selectDifficultyItemText">#fcfcfc</color>
+
+    <!-- Category screen -->
+    <color name="categoryItem">#510078</color>
+    <color name="categoryLevelStatusText">#10df2d</color>
+
+    <!-- Question screen -->
+    <color name="questionCategory">#000000</color>
+    <color name="questionText">#510078</color>
+    <color name="questionAnswerText">#fcfcfc</color>
+
+    <!-- Dialog colors -->
+    <color name="dialogButtonText">#000000</color>
+    <color name="dialogHeader">#510078</color>
+    <color name="dialogHeaderText">#ffffff</color>
+    <color name="dialogContentText">#000000</color>
+
+    <!-- Button colors -->
+    <color name="buttonPrimary">#333333</color>
+    <color name="buttonPrimaryActive">#484848</color>
+    <color name="buttonAnswerSelect">#f6891f</color>
+    <color name="buttonAnswerSelectActive">#ef7918</color>
+    <color name="buttonAnswerCorrect">#10df2d</color>
+    <color name="buttonAnswerWrong">#e6222e</color>
+    <color name="buttonBlank">#00000000</color>
+    <color name="buttonBlankActive">#13000000</color>
+
+    <!-- Natives -->
+    <color name="formControlColor">#ababac</color>
+    <color name="white">#ffffff</color>
+</resources>
