@@ -14,7 +14,7 @@
         android:textSize="18sp"
         android:textColor="@color/categoryItem"
         android:textAllCaps="true"
-        android:background="@color/highlight"/>
+        android:background="@drawable/selector_button_primary"/>
 
     <ImageView
         android:id="@+id/item_category_checkmark"

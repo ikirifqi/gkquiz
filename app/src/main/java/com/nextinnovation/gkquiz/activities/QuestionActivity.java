@@ -136,7 +136,19 @@ public class QuestionActivity extends AppCompatActivity
         else {
             GKHelper.showToastShort(this, R.string.question_wrong);
 
-            MainActivity.start(this, true);
+            new ConfirmDialog(R.string.question_back_dlg_title, R.string.question_wrong_dlg_message,
+                    R.string.question_wrong_dlg_yes, R.string.question_wrong_dlg_no) {
+                @Override
+                protected void onYesClicked() {
+                    setResult(Constants.QUESTION_BAD_RESULT_CODE);
+                    finish();
+                }
+
+                @Override
+                protected void onNoClicked() {
+                    MainActivity.start(QuestionActivity.this, true);
+                }
+            }.show(getFragmentManager(), null);
         }
     }
 

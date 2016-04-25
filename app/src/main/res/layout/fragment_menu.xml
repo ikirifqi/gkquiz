@@ -9,10 +9,17 @@
               android:padding="12dp">
 
     <ImageView
+        android:id="@+id/main_help_button"
+        android:layout_width="128dp"
+        android:layout_height="128dp"
+        android:layout_marginRight="32dp"
+        android:src="@drawable/selector_button_about"/>
+
+    <ImageView
         android:id="@+id/main_about_button"
         android:layout_width="128dp"
         android:layout_height="128dp"
-        android:layout_marginRight="128dp"
+        android:layout_marginRight="32dp"
         android:src="@drawable/selector_button_about"/>
 
     <ImageView

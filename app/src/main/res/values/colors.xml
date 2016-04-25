@@ -21,7 +21,7 @@
     <color name="selectDifficultyItemText">#fcfcfc</color>
 
     <!-- Category screen -->
-    <color name="categoryItem">#510078</color>
+    <color name="categoryItem">#ffffff</color>
     <color name="categoryLevelStatusText">#10df2d</color>
 
     <!-- Question screen -->

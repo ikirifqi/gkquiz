@@ -5,6 +5,9 @@
     <string name="about_author">Rivaldy Fauzan Mu\'taz\nDian Eka Muzdalifah\nDeden Nursyadid\nWelly Pamungkas</string>
     <string name="about_lecturer">Dosen Pembimbing:\nCahyana S.T., M.Kom.</string>
 
+    <string name="help_title">Help</string>
+    <string name="help_content">Help text goes here, help text goes here, help text goes here, help text goes here</string>
+
     <string name="error_other">Something went wrong, please contact the developer!</string>
 
     <string name="select_difficulty_title">Select Difficulty</string>
@@ -14,6 +17,10 @@
 
     <string name="question_correct">Your answer is correct</string>
     <string name="question_wrong">Your answer is wrong</string>
+    <string name="question_wrong_dlg_title">Try harder!</string>
+    <string name="question_wrong_dlg_message">Would you want to try again?</string>
+    <string name="question_wrong_dlg_yes">Try Again</string>
+    <string name="question_wrong_dlg_no">Back to Menu</string>
     <string name="question_back_dlg_title">Confirmation</string>
     <string name="question_back_dlg_content">Are you sure want to back to main menu? Your unsaved progress will be restarted.</string>
 
@@ -22,4 +29,7 @@
 
     <string name="category_level_status">%1$s Level %2$s</string>
     <string name="category_already_answered">You\'ve already answered this category of question, please try different category!</string>
+    <string name="category_success_dlg_title">Congratulations</string>
+    <string name="category_success_dlg_message">You\'ve completed this category, try another one!</string>
+    <string name="category_success_dlg_button">OK</string>
 </resources>

@@ -17,10 +17,18 @@ import com.nextinnovation.gkquiz.application.App;
 public abstract class ConfirmDialog extends DialogFragment {
     private int mTitleRes;
     private int mContentRes;
+    private int mYesRes;
+    private int mNoRes;
 
     public ConfirmDialog(int titleStrRes, int contentStrRes) {
+        this(titleStrRes, contentStrRes, 0, 0);
+    }
+
+    public ConfirmDialog(int titleStrRes, int contentStrRes, int yesRes, int noRes) {
         mTitleRes = titleStrRes;
         mContentRes = contentStrRes;
+        mYesRes = yesRes;
+        mNoRes = noRes;
     }
 
     @NonNull
@@ -47,6 +55,12 @@ public abstract class ConfirmDialog extends DialogFragment {
         // apply content data
         mTitle.setText(getString(mTitleRes));
         mContent.setText(getString(mContentRes));
+
+        // apply button caption
+        if(mYesRes > 0) mYesButton.setText(mYesRes);
+        if(mNoRes > 0) mNoButton.setText(mNoRes);
+        if(mYesRes == -1) mYesButton.setVisibility(View.GONE);
+        if(mNoRes == -1) mNoButton.setVisibility(View.GONE);
 
         // apply listeners
         mNoButton.setOnClickListener(new View.OnClickListener() {

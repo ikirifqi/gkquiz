@@ -19,6 +19,7 @@ import com.nextinnovation.gkquiz.application.App;
 import com.nextinnovation.gkquiz.application.Constants;
 import com.nextinnovation.gkquiz.application.GKHelper;
 import com.nextinnovation.gkquiz.application.dao.QuestionCategory;
+import com.nextinnovation.gkquiz.dialogs.ConfirmDialog;
 import com.nextinnovation.gkquiz.entities.QuestionCategoryEntity;
 import com.nextinnovation.gkquiz.interfaces.IDAOMultiDataListener;
 
@@ -35,9 +36,6 @@ public class CategoryActivity extends AppCompatActivity implements CategoryAdapt
     private List<QuestionCategoryEntity> mCategories;
     private CategoryAdapter mAdapter;
     private QuestionCategory mQuestionCategory;
-    private int mReturnCategoryId;
-
-    private boolean mShouldCheckForCheckmarks;
 
     public static List<Integer> sAnsweredCategories;    // to store answered category ids
     public static int sDifficultyIndex;                 // current difficulty index
@@ -46,6 +44,8 @@ public class CategoryActivity extends AppCompatActivity implements CategoryAdapt
     public static void start(Activity activity, int difficultyIndex) {
         Intent intent = new Intent(activity, CategoryActivity.class);
         intent.putExtra(EXTRA_DIFFICULTY_INDEX, difficultyIndex);
+        CategoryActivity.sLevel = 1;
+        CategoryActivity.sAnsweredCategories = new ArrayList<>();
         activity.startActivity(intent);
     }
 
@@ -62,15 +62,6 @@ public class CategoryActivity extends AppCompatActivity implements CategoryAdapt
             return;
         }
 
-        if(sAnsweredCategories == null) {
-            sAnsweredCategories = new ArrayList<>();
-        }
-        else {
-            sAnsweredCategories.clear();
-        }
-
-        sLevel = 1;
-        mReturnCategoryId = -1;
         mQuestionCategory = new QuestionCategory(this, false);
 
         setContentView(R.layout.activity_category);
@@ -92,17 +83,17 @@ public class CategoryActivity extends AppCompatActivity implements CategoryAdapt
     protected void onResume() {
         super.onResume();
 
+        if(checkForCompleteness()) {
+            return;
+        }
+
         // get category data here
         mQuestionCategory.all(new IDAOMultiDataListener<QuestionCategoryEntity>() {
             @Override
             public void onSuccess(List<QuestionCategoryEntity> questionCategoryEntities) {
                 mCategories = questionCategoryEntities;
 
-                // when returning from question answer area
-                if(mShouldCheckForCheckmarks) {
-                    mShouldCheckForCheckmarks = false;
-                    addCheckmarkToCategories();
-                }
+                addCheckmarkToCategories();
 
                 mAdapter = new CategoryAdapter(
                         CategoryActivity.this, mCategories, CategoryActivity.this);
@@ -136,8 +127,12 @@ public class CategoryActivity extends AppCompatActivity implements CategoryAdapt
                 resultCode == Constants.QUESTION_RESULT_CODE && data != null) {
             int categoryId = data.getIntExtra(Constants.QUESTION_RESPONSE_CATEGORY_ID, -1);
             sAnsweredCategories.add(categoryId);
-            mShouldCheckForCheckmarks = true;
             sLevel++;
+        }
+        else if(requestCode == Constants.QUESTION_REQUEST_CODE
+                && resultCode == Constants.QUESTION_BAD_RESULT_CODE) {
+            sAnsweredCategories.clear();
+            sLevel = 1;
         }
     }
 
@@ -166,5 +161,29 @@ public class CategoryActivity extends AppCompatActivity implements CategoryAdapt
             QuestionCategoryEntity category = findCategoryFromMemory(categoryId);
             if(category != null) category.mark = true;
         }
+    }
+
+    private boolean checkForCompleteness() {
+        if(sAnsweredCategories.size() == mQuestionCategory.count()) {
+            new ConfirmDialog(R.string.category_success_dlg_title,
+                    R.string.category_success_dlg_message,
+                    R.string.category_success_dlg_button, -1) {
+                @Override
+                protected void onYesClicked() {
+                    sAnsweredCategories.clear();
+                    sLevel = 0;
+                    MainActivity.start(CategoryActivity.this, true);
+                }
+
+                @Override
+                protected void onNoClicked() {
+                    // nothing to do yay
+                }
+            }.show(getFragmentManager(), null);
+
+            return true;
+        }
+
+        return false;
     }
 }

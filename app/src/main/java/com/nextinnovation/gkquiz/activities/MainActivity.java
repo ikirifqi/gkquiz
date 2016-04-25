@@ -10,6 +10,7 @@ import com.bumptech.glide.Glide;
 import com.nextinnovation.gkquiz.R;
 import com.nextinnovation.gkquiz.fragments.AboutFragment;
 import com.nextinnovation.gkquiz.fragments.DifficultyFragment;
+import com.nextinnovation.gkquiz.fragments.HelpFragment;
 import com.nextinnovation.gkquiz.fragments.MenuFragment;
 import com.nextinnovation.gkquiz.application.GKHelper;
 
@@ -23,10 +24,11 @@ public class MainActivity extends AppCompatActivity {
         activity.finish();
     }
 
-    public enum MainMenu { PRIMARY, ABOUT, PLAY }
+    public enum MainMenu { PRIMARY, ABOUT, HELP, PLAY }
 
     private MenuFragment mMenuFragment;
     private AboutFragment mAboutFragment;
+    private HelpFragment mHelpFragment;
     private DifficultyFragment mDifficultyFragment;
 
     @Override
@@ -45,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
         // create fragments object
         mMenuFragment = new MenuFragment();
         mAboutFragment = new AboutFragment();
+        mHelpFragment = new HelpFragment();
         mDifficultyFragment = new DifficultyFragment();
     }
 
@@ -59,11 +62,8 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onBackPressed() {
         int stackCount = getFragmentManager().getBackStackEntryCount();
-
-        if(stackCount > 0)
-            getFragmentManager().popBackStack();
-        else
-            super.onBackPressed();
+        if(stackCount > 0) getFragmentManager().popBackStack();
+        else super.onBackPressed();
     }
 
     public void gotoMenu(MainMenu menu) {
@@ -74,6 +74,10 @@ public class MainActivity extends AppCompatActivity {
 
             case ABOUT:
                 GKHelper.runFragment(this, R.id.main_frame, mAboutFragment, true, true);
+                break;
+
+            case HELP:
+                GKHelper.runFragment(this, R.id.main_frame, mHelpFragment, true, true);
                 break;
 
             case PLAY:

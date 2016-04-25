@@ -15,6 +15,7 @@ import com.nextinnovation.gkquiz.activities.MainActivity;
  */
 public class MenuFragment extends Fragment implements View.OnClickListener {
     private View mAboutBtn;
+    private View mHelpBtn;
     private View mPlayBtn;
     private MainActivity mMainActivity;
 
@@ -24,6 +25,7 @@ public class MenuFragment extends Fragment implements View.OnClickListener {
         // inflate fragment layout ane grab view references
         View view = inflater.inflate(R.layout.fragment_menu, container, false);
         mAboutBtn = view.findViewById(R.id.main_about_button);
+        mHelpBtn = view.findViewById(R.id.main_help_button);
         mPlayBtn = view.findViewById(R.id.main_play_button);
 
         return view;
@@ -35,6 +37,7 @@ public class MenuFragment extends Fragment implements View.OnClickListener {
 
         // attaching event listeners
         mAboutBtn.setOnClickListener(this);
+        mHelpBtn.setOnClickListener(this);
         mPlayBtn.setOnClickListener(this);
 
         // grab main activity reference
@@ -45,6 +48,9 @@ public class MenuFragment extends Fragment implements View.OnClickListener {
     public void onClick(View v) {
         if(v == mAboutBtn) {
             mMainActivity.gotoMenu(MainActivity.MainMenu.ABOUT);
+        }
+        else if(v == mHelpBtn) {
+            mMainActivity.gotoMenu(MainActivity.MainMenu.HELP);
         }
         else if(v == mPlayBtn) {
             mMainActivity.gotoMenu(MainActivity.MainMenu.PLAY);

@@ -9,6 +9,7 @@ public class Constants {
     public static final int QUESTION_REQUEST_CODE = 100;
 
     public static final int QUESTION_RESULT_CODE = 200;
+    public static final int QUESTION_BAD_RESULT_CODE = 300;
     public static final String QUESTION_RESPONSE_CATEGORY_ID = "response_question_category_id";
 
     public static final String OPTIONS_SEPARATOR_CODE = "&&SEPARATOR&&";
